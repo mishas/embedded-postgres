@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/fergusstrange/embedded-postgres/master/gopher.png" width="150">
+     <img src="https://raw.githubusercontent.com/fergusstrange/embedded-postgres/master/gopher.png" width="150">
 </p>
 
 <p align="center">
